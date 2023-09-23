@@ -1,0 +1,20 @@
+{
+  "name": "work1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sinsamuth",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "discord.js": "^14.13.0",
+    "edit-json-file": "^1.7.0",
+    "fs": "^0.0.1-security",
+    "glob": "^10.3.4",
+    "sqlite3": "^5.1.6",
+    "util": "^0.12.5"
+  }
+}
